@@ -1,0 +1,32 @@
+https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners?l=4RDmRvOZD_5401937557#
+
+https://learn.by/courses/course-v1:EPAM+VCG+ext1/about
+https://learn.by/courses/course-v1:EPAM+SDM+ext1/about
+
+https://learn.by/courses/course-v1:EPAM+DE+ext1/about
+
+Данное задание выполняется сразу после предыдущего (I Can Win).
+
+1. Добавьте в проект файл .gitignore и настройте так чтобы скрыть файлы с 
+расширением .db, .log и директории с названиями target или bin.
+
+2. Создайте ветку feature и добавьте в неё два коммита
+
+3. Смержите ветку feature в master
+
+4. Вернитесь в feature и создайте файл arrows.txt cледующего содержания:
+
+The ship glides gently on the waves
+As day turns into night
+
+Выполните коммит.
+
+5. Перейдите в master. Создайте там файл arrows.txt и добавьте следующий текст:
+
+One thousand burning arrows
+Fill the starlit sky
+
+Выполните коммит.
+
+6. Смержите feature в master решив конфликт: сохраните все 4 строки в файле arrows.txt в 
+порядке их добавления в пунктах 4 и 5.
